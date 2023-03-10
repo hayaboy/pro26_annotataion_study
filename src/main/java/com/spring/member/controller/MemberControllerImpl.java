@@ -26,6 +26,7 @@ public class MemberControllerImpl implements MemberController{
 	/*
 	 * Marks a constructor, field, setter method, or config method as to be
 	 * autowired by Spring's dependency injection facilities.
+	 * 생성자, 필드, 셋터 메서드 , 메서드 설정에 의존성 주입합
 	 */	
 	
 	@Autowired
